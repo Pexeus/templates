@@ -1,0 +1,23 @@
+{
+  "name": "typescript-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -watch -p ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pexeus/templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pexeus/templates/issues"
+  },
+  "homepage": "https://github.com/Pexeus/templates#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
