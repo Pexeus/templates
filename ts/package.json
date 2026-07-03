@@ -20,6 +20,7 @@
     "homepage": "https://github.com/Pexeus/templates#readme",
     "description": "",
     "devDependencies": {
-        "typescript": "^5.8.3"
+        "typescript": "^5.8.3",
+        "@types/node": "^26.0.1"
     }
 }
